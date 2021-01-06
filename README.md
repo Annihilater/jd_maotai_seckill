@@ -4,4 +4,4 @@
 # 想炒股的,学习炒股的加群!量化交易的!欢迎进群交流.
 
 
-<img src="https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/x2.jpg" height="20%" width="20%" >
+<img src="https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/x3.jpg" height="20%" width="20%" >
