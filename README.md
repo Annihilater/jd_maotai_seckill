@@ -3,10 +3,5 @@
 # 在重申一遍不抢茅台,股市行情好炒股了．抢茅台不要加群!抢茅台不要加群!抢茅台不要加群!
 # 想炒股的,学习炒股的加群!量化交易的!欢迎进群交流.
 
-<table id='wechat_group3'>
- 	<tr><td id='group_9'>
-            <img src='https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/x2.jpg?size=140'>
-            <h4 align='center'>群</h4>
-        </td>
-	</tr>
-</table>
+
+<img src="https://i.loli.net/2021/01/06/ZvT8RpYnciIjB6m.jpg" height="20%" width="20%" >
