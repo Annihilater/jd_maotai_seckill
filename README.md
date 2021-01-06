@@ -5,7 +5,7 @@
 
 <table id='wechat_group3'>
  	<tr><td id='group_9'>
-            <img src='https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/m1.png?size=140'>
+            <img src='https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/x2.png?size=140'>
             <h4 align='center'>群</h4>
         </td>
 	</tr>
